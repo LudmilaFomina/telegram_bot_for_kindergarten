@@ -1,4 +1,4 @@
-# telegram_bot_for_kindergarten
+# Telegram bot for kindergarten
 A Telegram bot for kindergarten allows parents to send information that their child will not come to kindergarten today. 
 
 The parent, in a dialogue with the bot, gives information: group number, last name, first name, date of birth of the child. At each stage, the data is checked against the group list, which allows us to weed out random people who do not have the correct information.
